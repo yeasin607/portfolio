@@ -54,7 +54,7 @@ ScrollReveal().reveal('.home-img, .services-content, .portfolio-content, .about-
 
 // tyepd js
 var typed = new Typed('#element', {
-    strings: ['Frontend Developer.', 'Graphics Designer.', 'Freelancer.', 'Youtuber.'],
+    strings: ['Graphics Designer.', 'Freelancer.', 'Youtuber.'],
     typeSpeed: 100,
     backSpeed: 100,
     loop: true
